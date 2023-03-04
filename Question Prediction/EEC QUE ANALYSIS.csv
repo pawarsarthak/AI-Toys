@@ -1,0 +1,131 @@
+YEAR,QUE,SUB-QUE,MARKS,UNIT,TOPIC-NO,TOPIC
+2022,1,a,2,1,1.3,Series and parallel magnetic circuits
+2022,1,b,2,2,2.2,"Single phase A.C. sinusoidal A.C. wave: instantaneous value, cycle, amplitude, time period, frequency, angular frequency, R.M.S. value, Average value for sinusoidal waveform, Form factor, Peak factor"
+2022,1,c,2,3,3.3,Phase sequence and balanced and unbalanced load
+2022,1,d,2,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2022,1,e,2,4,4.5,"Types of D.C. motors, schematic diagram, 1,  series and compound motors"
+2022,1,f,2,5,5.3,"Stepper motor: types, principle of working and applications"
+2022,1,g,2,6,6.4,"Earthing:  Importance of earthing, factors affecting earthing"
+2022,2,a,4,1,1.6,"B-H curve and hysteresis, hysteresis loop and hysteresis loss."
+2022,2,b,4,2,2.2,"Single phase A.C. sinusoidal A.C. wave: instantaneous value, cycle, amplitude, time period, frequency, angular frequency, R.M.S. value, Average value for sinusoidal waveform, Form factor, Peak factor"
+2022,2,c,4,3,3.5,"Current, power, power factor in a 3 phase balanced system"
+2022,2,d,4,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2022,3,a,4,1,1.1,"Magnetic flux, flux density, magneto motive force, magnetic field strength, permeability, reluctance"
+2022,3,b,4,4,4.3,DC motor construction - parts its function and material used
+2022,3,c,4,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2022,3,d,4,6,6.5,"Methods of reducing earth resistance, LE rules relevant to earthing"
+2022,4,a,4,1,1.1,"Magnetic flux, flux density, magneto motive force, magnetic field strength, permeability, reluctance"
+2022,4,b,4,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2022,4,c,4,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2022,4,d,4,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2022,4,e,4,6,6.1,"Fuse: Operation, types"
+2022,5,a,6,2,2.2,"Single phase A.C. sinusoidal A.C. wave: instantaneous value, cycle, amplitude, time period, frequency, angular frequency, R.M.S. value, Average value for sinusoidal waveform, Form factor, Peak factor"
+2022,5,b,6,2,2.4,"Pure resistance, inductance and capacitance in A.C. circuit"
+2022,5,c,6,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2022,6,a,6,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2022,6,b,6,6,6.4,"Earthing:  Importance of earthing, factors affecting earthing"
+2022,6,c,6,6,6.3,"MCB, MCCB and ELCB: Operation and general specifications"
+2018,1,a,2,1,1.4,"Faraday's laws of electromagnetic induction, Fleming's right hand rule, induction, Fleming's right hand rule, Lenz's law L5  Dynamically and statically induced emf, self and mutual inductance"
+2018,1,b,2,2,2.3,"Vector representation of sinusoidal A.C. quantity, Phase angle, phase difference, concept of lagging and leading - by waveforms, mathematical equations and phasors"
+2018,1,c,2,3,3.1,3 phase system over 1 phase system
+2018,1,d,2,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2018,1,e,2,4,4.5,"Types of D.C. motors, schematic diagram, 1,  series and compound motors"
+2018,1,f,2,5,5.3,"Stepper motor: types, principle of working and applications"
+2018,1,g,2,6,6.3,"MCB, MCCB and ELCB: Operation and general specifications"
+2018,2,a,4,1,1.3,Series and parallel magnetic circuits
+2018,2,b,4,2,2.3,"Vector representation of sinusoidal A.C. quantity, Phase angle, phase difference, concept of lagging and leading - by waveforms, mathematical equations and phasors"
+2018,2,c,4,3,3.4,"Phase and line current, phase and line voltage in star connected and delta connected balanced system"
+2018,2,d,4,4,4.3,DC motor construction - parts its function and material used 
+2018,3,a,4,1,1.5,"Dynamically and statically induced emf, self and mutual inductance"
+2018,3,b,4,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2018,3,c,4,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2018,3,d,4,6,6.3,"MCB, MCCB and ELCB: Operation and general specifications"
+2018,4,a,4,1,1.1,"Magnetic flux, flux density, magneto motive force, magnetic field strength, permeability, reluctance"
+2018,4,b,4,4,4.5,"Types of D.C. motors, schematic diagram, 1,  series and compound motors"
+2018,4,c,4,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2018,4,d,4,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2018,4,e,4,6,6.1,"Fuse: Operation, types"
+2018,5,a,6,2,2.1,"A.C, and D.C. quantity, advantages of A.C. over D.C."
+2018,5,b,6,3,3.4,"Phase and line current, phase and line voltage in star connected and delta connected balanced system"
+2018,5,c,6,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2018,6,a,6,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2018,6,b,6,6,6.5,"Methods of reducing earth resistance, LE rules relevant to earthing"
+2018,6,c,6,4,6.4,"Earthing:  Importance of earthing, factors affecting earthing"
+2020,1,a,2,1,1.4,"Faraday's laws of electromagnetic induction, Fleming's right hand rule, induction, Fleming's right hand rule, Lenz's law L5  Dynamically and statically induced emf, self and mutual inductance"
+2020,1,b,2,2,2.1,"A.C, and D.C. quantity, advantages of A.C. over D.C."
+2020,1,c,2,3,3.2,3-phase emf generation and its wave form
+2020,1,d,2,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2020,1,e,2,4,4.3,DC motor construction - parts its function and material used
+2020,1,f,2,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2020,1,g,2,6,6.5,"Methods of reducing earth resistance, LE rules relevant to earthing"
+2020,2,a,4,1,1.6,"B-H curve and hysteresis, hysteresis loop and hysteresis loss."
+2020,2,b,4,2,2.4,"Pure resistance, inductance and capacitance in A.C. circuit"
+2020,2,c,4,3,3.6,Star and delta connections
+2020,2,d,4,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2020,3,a,4,1,1.4,"Faraday's laws of electromagnetic induction, Fleming's right hand rule, induction, Fleming's right hand rule, Lenz's law L5  Dynamically and statically induced emf, self and mutual inductance"
+2020,3,b,4,4,4.4,DC motor -Principle of operation
+2020,3,c,4,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2020,3,d,4,6,6.5,"Methods of reducing earth resistance, LE rules relevant to earthing"
+2020,4,a,4,1,1.4,"Faraday's laws of electromagnetic induction, Fleming's right hand rule, induction, Fleming's right hand rule, Lenz's law L5  Dynamically and statically induced emf, self and mutual inductance"
+2020,4,b,4,4,4.5,"Types of D.C. motors, schematic diagram, 1,  series and compound motors"
+2020,4,c,4,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2020,4,d,4,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2020,4,e,4,6,6.1,"Fuse: Operation, types"
+2020,5,a,6,2,2.2,"Single phase A.C. sinusoidal A.C. wave: instantaneous value, cycle, amplitude, time period, frequency, angular frequency, R.M.S. value, Average value for sinusoidal waveform, Form factor, Peak factor"
+2020,5,b,6,2,2.8,"Power - active, reactive and apparent, power triangle"
+2020,5,c,6,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2020,6,a,6,5,5.3,"Stepper motor: types, principle of working and applications"
+2020,6,b,6,6,6.1,"Fuse: Operation, types"
+2020,6,c,6,6,6.3,"MCB, MCCB and ELCB: Operation and general specifications"
+2019,1,a,2,1,1.4,"Faraday's laws of electromagnetic induction, Fleming's right hand rule, induction, Fleming's right hand rule, Lenz's law L5  Dynamically and statically induced emf, self and mutual inductance"
+2019,1,b,2,3,3.5,"Current, power, power factor in a 3 phase balanced system"
+2019,1,c,2,3,3.3,Phase sequence and balanced and unbalanced load
+2019,1,d,2,4,4.3,DC motor construction - parts its function and material used 
+2019,1,e,2,4,4.3,DC motor construction - parts its function and material used 
+2019,1,f,2,4,4.5,"Types of D.C. motors, schematic diagram, 1,  series and compound motors"
+2019,1,g,2,6,6.4,"Earthing:  Importance of earthing, factors affecting earthing"
+2019,2,a,4,1,1.2,Electric and magnetic circuits
+2019,2,b,4,2,2.2,"Single phase A.C. sinusoidal A.C. wave: instantaneous value, cycle, amplitude, time period, frequency, angular frequency, R.M.S. value, Average value for sinusoidal waveform, Form factor, Peak factor"
+2019,2,c,4,3,3.2,3-phase emf generation and its wave form
+2019,2,d,4,4,4.3,DC motor construction - parts its function and material used
+2019,3,a,4,1,1.2,Electric and magnetic circuits
+2019,3,b,4,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2019,3,c,4,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2019,3,d,4,6,6.1,"Fuse: Operation, types"
+2019,4,a,4,1,1.2,Electric and magnetic circuits
+2019,4,b,4,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2019,4,c,4,5,5.3,"Stepper motor: types, principle of working and applications"
+2019,4,d,4,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2019,4,e,4,2,2.4,"Pure resistance, inductance and capacitance in A.C. circuit"
+2019,5,a,6,2,2.3,"Vector representation of sinusoidal A.C. quantity, Phase angle, phase difference, concept of lagging and leading - by waveforms, mathematical equations and phasors"
+2019,5,b,6,3,3.3,Phase sequence and balanced and unbalanced load
+2019,5,c,6,3,3.4,"Phase and line current, phase and line voltage in star connected and delta connected balanced system"
+2019,6,a,6,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2019,6,b,6,6,6.3,"MCB, MCCB and ELCB: Operation and general specifications"
+2019,6,c,6,6,6.4,"Earthing:  Importance of earthing, factors affecting earthing"
+2019,1,a,2,1,1.1,"Magnetic flux, flux density, magneto motive force, magnetic field strength, permeability, reluctance"
+2019,1,b,2,2,2.1,"A.C, and D.C. quantity, advantages of A.C. over D.C."
+2019,1,c,2,3,3.1,3 phase system over 1 phase system
+2019,1,d,2,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2019,1,e,2,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2019,1,f,2,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2019,1,g,2,6,6.1,"Fuse: Operation, types"
+2019,2,a,4,1,1.5,"Dynamically and statically induced emf, self and mutual inductance"
+2019,2,b,4,2,2.2,"Single phase A.C. sinusoidal A.C. wave: instantaneous value, cycle, amplitude, time period, frequency, angular frequency, R.M.S. value, Average value for sinusoidal waveform, Form factor, Peak factor"
+2019,2,c,4,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2019,2,d,4,3,3.1,3 phase system over 1 phase system
+2019,3,a,4,1,1.2,Electric and magnetic circuits
+2019,3,b,4,4,4.1,"Transformer: Working principle, emf equation, Voltage ratio, current ratio and transformation ratio, losses"
+2019,3,c,4,5,5.1,"FHP: Schematic representation, principle of operation and applications of: split phase Induction motor, capacitor start induction run. capacitor start capacitor run and permanent capacitor motors, shaded pole motors"
+2019,3,d,4,6,6.4,"Earthing:  Importance of earthing, factors affecting earthing"
+2019,4,a,4,1,1.6,"B-H curve and hysteresis, hysteresis loop and hysteresis loss."
+2019,4,b,4,4,4.2,"Auto-transformer - comparison with two winding transformer, applications"
+2019,4,c,4,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2019,4,d,4,5,5.2,Universal motor: principle of operation. reversal of rotation and applications
+2019,4,e,4,6,6.1,"Fuse: Operation, types"
+2019,5,a,6,2,2.2,"Single phase A.C. sinusoidal A.C. wave: instantaneous value, cycle, amplitude, time period, frequency, angular frequency, R.M.S. value, Average value for sinusoidal waveform, Form factor, Peak factor"
+2019,5,b,6,3,3.4,"Phase and line current, phase and line voltage in star connected and delta connected balanced system"
+2019,5,c,6,4,4.5,"Types of D.C. motors, schematic diagram, 1,  series and compound motors"
+2019,6,a,6,5,5.3,"Stepper motor: types, principle of working and applications"
+2019,6,b,6,6,6.4,"Earthing:  Importance of earthing, factors affecting earthing"
+2019,6,c,6,6,6.3,"MCB, MCCB and ELCB: Operation and general specifications"
